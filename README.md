@@ -23,3 +23,7 @@ Watch our demo video to see Roastrology in action:
 -👩‍💻 Developed by Bharadi Harshitha 
 -🔮 Powered by Perplexity AI
 --
+
+##📸 Screenshots
+![Home Page](![Screenshot_30-5-2025_203044_localhost](https://github.com/user-attachments/assets/f3068e85-ddd2-4b84-8f5d-5f5a78acf618)
+)
