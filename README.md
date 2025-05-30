@@ -1,29 +1,28 @@
 # Roastrology Project
 
-## 🌟 Overview
-Roastrology is a fun, astrology-inspired project that generates personalized "roasts" based on your zodiac sign. It combines humor with astrological traits to create lighthearted, entertaining readings.
+## 🌟 Overview  
+Roastrology is a fun, astrology-inspired project that generates personalized "roasts" based on your zodiac sign. It combines humor with astrological traits to create lighthearted, entertaining readings.  
 
 ---
 
-## 🚀 Features
-- 🔮 Zodiac sign analysis with a humorous twist  
-- 😂 Personalized roast generation  
-- 📱 Mobile-responsive design  
-- 🔗 Shareable results  
+## 🚀 Features  
+| Feature               | Description                                  |
+|-----------------------|---------------------------------------------|
+| 🔮 Zodiac Analysis    | Humorous take on astrological traits        |
+| 😂 Personalized Roasts| AI-generated witty personality readings     |
+| 📱 Mobile-Responsive  | Works flawlessly on all devices             |
+| 🔗 Shareable Results  | Easy social media sharing options           |
 
 ---
 
-## 📺 YouTube Demo
-Watch our demo video to see Roastrology in action:  
-[Roastrology Demo](https://youtu.be/CtaCILTBnfo) 
+## 📺 YouTube Demo  
+[![Roastrology Demo](https://img.youtube.com/vi/CtaCILTBnfo/0.jpg)](https://youtu.be/CtaCILTBnfo)  
+*Click the thumbnail to watch the demo*
 
 ---
 
-##✨ Credits
--👩‍💻 Developed by Bharadi Harshitha 
--🔮 Powered by Perplexity AI
---
-
-##📸 Screenshots
-![Home Page](![Screenshot_30-5-2025_203044_localhost](https://github.com/user-attachments/assets/f3068e85-ddd2-4b84-8f5d-5f5a78acf618)
-)
+## ✨ Credits  
+| Role               | Contributor           |
+|--------------------|-----------------------|
+| 👩‍💻 Development    | Bharadi Harshitha     |
+| 🔮 AI Technology   | Powered by Perplexity |
