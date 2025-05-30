@@ -1,0 +1,129 @@
+/* src/pages/HomePage.css */
+.homepage {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Space Background */
+.stars, .twinkling {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.stars {
+  background: #000 url('https://i.imgur.com/YKY28eT.png') repeat top center;
+}
+
+.twinkling {
+  background: transparent url('https://i.imgur.com/XYMF4ca.png') repeat top center;
+  animation: twinkle 200s linear infinite;
+}
+
+@keyframes twinkle {
+  from { background-position: 0 0; }
+  to { background-position: -10000px 5000px; }
+}
+
+/* Content Styling */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.logo {
+  color: #ff6b6b;
+  text-shadow: 0 0 10px rgba(255, 107, 107, 0.7);
+}
+
+.tagline h2 {
+  font-size: 2rem;
+  margin: 30px 0;
+  min-height: 80px;
+}
+
+.cta-button {
+  display: inline-block;
+  background: linear-gradient(45deg, #ff6b6b, #6b6bff);
+  color: white;
+  padding: 15px 30px;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(107, 107, 255, 0.4);
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(107, 107, 255, 0.6);
+}
+
+.zodiac-wheel {
+  margin: 40px auto;
+  max-width: 200px;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+}
+
+.funny-disclaimer {
+  margin-top: 50px;
+  font-style: italic;
+  opacity: 0.8;
+  font-size: 0.9rem;
+}
+
+
+
+
+/* src/pages/HomePage.css */
+/* ... (keep all existing star background styles) ... */
+
+/* New styles for daily prediction feature */
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.cta-container {
+  margin: 0;
+}
+
+.zodiac-wheel img {
+  max-width: 200px;
+  height: auto;
+  filter: drop-shadow(0 0 10px rgba(255, 107, 107, 0.7));
+}
+
+.daily-prediction-tagline {
+  margin-top: 15px;
+  color: #ff6b6b;
+  text-shadow: 0 0 5px rgba(255, 107, 107, 0.5);
+  font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .button-group {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .tagline h2 {
+    font-size: 1.5rem;
+    min-height: 120px;
+  }
+}
