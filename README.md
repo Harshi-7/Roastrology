@@ -20,6 +20,6 @@ Watch our demo video to see Roastrology in action:
 ---
 
 ##✨ Credits
-👩‍💻 Developed by Bharadi Harshitha 
-🔮 Powered by Perplexity AI
+-👩‍💻 Developed by Bharadi Harshitha 
+-🔮 Powered by Perplexity AI
 --
