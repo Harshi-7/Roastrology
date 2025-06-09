@@ -8,12 +8,12 @@ Roastrology is a fun, astrology-inspired project that generates personalized "ro
 ---
 
 ## 🚀 Features
-| Feature             | Description                                   |
-|----------------------|-----------------------------------------------|
-| 🔮 **Zodiac Analysis** | Humorous take on astrological traits           |
-| 😂 **Personalized Roasts** | AI-generated witty personality readings      |
-| 📱 **Mobile-Responsive** | Works flawlessly on all devices              |
-| 🔗 **Shareable Results** | Easy social media sharing options             |
+| Feature                | Description                                                   |
+|------------------------|---------------------------------------------------------------|
+| 🔮 **Zodiac Analysis**     | Humorous take on astrological traits                           |
+| 😂 **Personalized Roasts** | AI-generated witty personality readings                          |
+| 📱 **Mobile-Responsive**   | Works flawlessly on all devices                                |
+| 🔗 **Shareable Results**   | [Try it Live!](https://roastrology.vercel.app/) – Share your roast on social media! |
 
 ---
 
